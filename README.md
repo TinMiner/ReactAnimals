@@ -1,6 +1,6 @@
 Have this as well. Just refreshing my react and adding typescript to it to. The world of react has moved on a lot since I picked it up in 2018 and to be honest is much easier. They'll be many out there making loads who know nothing of the state model before hooks and redux has also been made a lot easier with redux tookkit now.
 
-At the end of the day I'm still a clever fellow who works things out while people talk in there teams for protracted working hours thesedays with extended breaks. Hey ho perhaps it might help someone and perhaps it won't!
+At the end of the day I'm still a clever fellow who works things out while people talk in their teams for protracted working hours thesedays with extended breaks. Hey ho perhaps it might help someone and perhaps it won't!
 
 # React + TypeScript + Vite
 
